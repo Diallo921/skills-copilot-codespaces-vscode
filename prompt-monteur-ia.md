@@ -32,11 +32,18 @@ monteur-ia/
 - **Format** : vertical 9:16, 1080×1920, 30 i/s, durée de 30 à 60 secondes sauf indication contraire.
 - **Rythme** : dynamique. Supprime tous les blancs de plus de 0,3 s, les hésitations (« euh », « bah », « du coup » répétés), les faux départs et les phrases recommencées : garde toujours la meilleure prise.
 - **Accroche** : les 3 premières secondes doivent capter l'attention. Si la meilleure phrase se trouve au milieu, propose de la placer en ouverture.
-- **Sous-titres** : mot par mot ou par groupes de 2 à 4 mots, centrés dans le tiers inférieur (hors zone de l'interface des réseaux), police grasse sans empattement, texte blanc avec contour noir, mot prononcé mis en surbrillance (jaune). Corrige l'orthographe de la transcription.
-- **Mots-clés** : mets en valeur les chiffres et les mots importants (couleur, légère mise à l'échelle).
+- **Charte « Les 30 premières secondes »** : respecte le kit de marque (logo, palette, typographies, règles).
+  - Palette uniquement : beige crème `#F8F1E9`, rose poudré `#D98D83`, rose pastel `#F2D1C9`, brun terracotta `#925348`, noir doux `#292929`. Pas de noir pur, de blanc pur ni de couleur hors palette.
+  - Polices : Montserrat 600/700 pour les sous-titres et boutons, Cormorant Garamond pour les titres, Allura pour un seul mot manuscrit (jamais en paragraphe ni en capitales). Deux polices maximum par visuel.
+- **Zones safe TikTok** : rien dans le haut (108 px), le bas (320 px) ni le côté droit.
+- **Sous-titres** : groupes de 2 à 4 mots en Montserrat Bold, texte noir doux dans une bulle beige crème aux coins arrondis, placée entre x = 60 et 960 px, bas du bloc à y = 1600 px. Les mots apparaissent au fil de la voix. Corrige l'orthographe de la transcription.
+- **Mots-clés** : un seul mot-clé à la fois, dans une petite bulle rose poudré avec texte beige crème.
+- **Bannière de profil** : avatar monogramme + « juliette.couple_com » + bouton « S'abonner », entièrement dans la zone safe, quelques secondes au début.
+- **Appel à l'action** : un seul, s'abonner. Outro plein cadre ajoutée après la vidéo : fond beige crème, logo principal, bouton « Abonne-toi », pseudo.
 - **Zooms** : zoom avant léger (105–115 %) sur les phrases fortes, en alternance pour casser la monotonie toutes les 4 à 6 secondes.
-- **Audio** : voix normalisée à -14 LUFS, pas de saturation. Musique de fond seulement si je la fournis, à -20 dB sous la voix.
-- **Ton** : naturel et direct. N'ajoute pas d'effets gadgets ni de transitions tape-à-l'œil.
+- **Audio** : voix normalisée à -14 LUFS, pas de saturation. Musique de fond seulement si je la fournis, à -20 dB sous la voix. Une seule voix d'un clip à l'autre.
+- **Ton** : doux, rassurant, tutoiement, phrases courtes. Pas de jargon, pas de promesse de résultat garanti, rien qui culpabilise les parents. N'ajoute pas d'effets gadgets ni de transitions tape-à-l'œil.
+- **Éthique** : Julliete est un personnage généré par IA. Rappelle-le dans la légende proposée et rappelle-moi de cocher « contenu généré par IA » sur TikTok.
 
 ## Le montage
 
