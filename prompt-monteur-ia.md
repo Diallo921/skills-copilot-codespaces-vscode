@@ -36,7 +36,7 @@ monteur-ia/
   - Palette uniquement : beige crème `#F8F1E9`, rose poudré `#D98D83`, rose pastel `#F2D1C9`, brun terracotta `#925348`, noir doux `#292929`. Pas de noir pur, de blanc pur ni de couleur hors palette.
   - Polices : Montserrat 600/700 pour les sous-titres et boutons, Cormorant Garamond pour les titres, Allura pour un seul mot manuscrit (jamais en paragraphe ni en capitales). Deux polices maximum par visuel.
 - **Zones safe TikTok** : rien dans le haut (108 px), le bas (320 px) ni le côté droit.
-- **Sous-titres** : groupes de 2 à 4 mots en Montserrat Bold, texte noir doux dans une bulle beige crème aux coins arrondis, placée entre x = 60 et 960 px, bas du bloc à y = 1600 px. Les mots apparaissent au fil de la voix. Corrige l'orthographe de la transcription.
+- **Sous-titres** : groupes de 2 à 4 mots en Montserrat Bold, texte noir doux dans une bulle beige crème aux coins arrondis, placée entre x = 60 et 960 px, **centre vertical du bloc à y = 1152 px** (sur 1920), soit 192 px sous le milieu de l'écran : c'est la hauteur validée, garde-la pour toutes les vidéos. Les mots apparaissent au fil de la voix. Corrige l'orthographe de la transcription.
 - **Mots-clés** : un seul mot-clé à la fois, dans une petite bulle rose poudré avec texte beige crème.
 - **Bannière de profil** : avatar monogramme + « juliette.couple_com » + bouton « S'abonner », entièrement dans la zone safe, quelques secondes au début.
 - **Appel à l'action** : un seul, s'abonner. Outro plein cadre ajoutée après la vidéo : fond beige crème, logo principal, bouton « Abonne-toi », pseudo.
